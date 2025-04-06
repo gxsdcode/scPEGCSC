@@ -1,7 +1,7 @@
-# scPEGCSC
-scPEGCSC: Proximity Enhanced Graph Convolutional Subspace Clustering method for scRNA-seq Data 
+# scPEGSSC
+scPEGSSC: Proximity Enhanced Graph Convolutional Sparse Subspace Clustering method for scRNA-seq Data 
 ## Requirement
-The python environment and the main packages needed to run scPEDSSC are as follows:
+The python environment and the main packages needed to run scPEGSSC are as follows:
 
 * python 3.8.16
 
